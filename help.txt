@@ -1,0 +1,7 @@
+[*] Help
+Usage: python3 verbsHandler.py <file-path> <option(s)>
+OPTIONS
+--add	   Add http/https to the URLs.
+--remove   Remove http/https to the URLs.
+MISC
+--help	   Show this help.
